@@ -1,4 +1,4 @@
-package getting_started_with_unittest_in_go
+package calculator
 
 import "math"
 
